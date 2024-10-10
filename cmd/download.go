@@ -5,7 +5,7 @@ import (
 	"os"
 
 	"github.com/manifoldco/promptui"
-	"github.com/smy-101/anime_downloader/internal/download"
+	"github.com/smy-101/anime_downloader/download"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 )
